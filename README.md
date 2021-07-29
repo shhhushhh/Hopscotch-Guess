@@ -6,20 +6,20 @@ Your Project
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Created a hopscotch-esque guessing game (p5.js) where the player starts at the top left corner of the map and has to guess their way down to the bottom right corner. You can play the game here: https://hopscotch-guessing-game.glitch.me.
 
 ### ← index.html
 
-Where you'll write the content of your website. 
+Not much to note in terms of html and css since I've been focusing on javascript. 
 
 ### ← style.css
 
-CSS files add styling rules to your content.
+See html
 
 ### ← script.js
 
-If you're feeling fancy you can add interactivity to your site with JavaScript.
+Used object oriented programming to develop the map and player!
 
 ### ← assets
 
-Drag in `assets`, like images or music, to add them to your project
+n/a
