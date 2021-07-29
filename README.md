@@ -1,8 +1,5 @@
-CSSI Day 1 - Olympic Rings
+Hopscotch Guessing Game
 =================
-
-Your Project
-------------
 
 ### ← README.md
 
