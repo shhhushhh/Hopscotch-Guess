@@ -77,11 +77,11 @@ function mousePressed() {
   player.updatePlayerGuesses();
 }
 
-function finishLine() { // idk why this isn't showing up when the console.log is
+function finishLine() { 
   noStroke();
   fill(100);
-  text("END", width - 25, width - 150);
-  console.log("whyyyyyy");
+  textAlign(CENTER);
+  text('END', width - 25, height - 70);
 }
 
 function scoreDisplay() {
